@@ -2,10 +2,10 @@
 
 function mostrarLista(id) {
     var lista = document.getElementById(id);
-    if (lista.style.display === "none") {
-        lista.style.display = "block";
-    } else {
+    if (lista.style.display === "block") {
         lista.style.display = "none";
+    } else {
+        lista.style.display = "block";
     }
 }
 
