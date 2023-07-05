@@ -5,6 +5,8 @@ Web project for a Japanese food restaurant. :rice_ball:
 Made with HTML, CSS and JavaScript.
 It has different sections and form.
 
+Responsive design.
+
 ![js](https://github.com/ArtielSry/japanese-restaurant/assets/113340763/2574cbd0-d86f-4b20-bcfa-e0e8d0992699)
 
 ![js](https://github.com/ArtielSry/japanese-restaurant/assets/113340763/75fe7c70-d2f3-47fc-ab63-8c9c081370fa)
