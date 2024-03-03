@@ -211,6 +211,7 @@ h2 {
   font-weight: bold;
   border-left: none;
   border-right: none;
+  border-bottom: none;
   border-radius: 2px;
   padding: 15px;
   text-align: left;
