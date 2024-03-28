@@ -131,7 +131,7 @@ h2 {
 /*header*/
 .header_container {
   width: 100%;
-  min-height: 70vh;
+  min-height: 600px;
   background-size: cover;
   background-position: center;
   background-image: url("../assets/landBg.jpg");
